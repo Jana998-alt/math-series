@@ -1,0 +1,1 @@
+PR of lab02: https://github.com/Jana998-alt/math-series/pull/3 
